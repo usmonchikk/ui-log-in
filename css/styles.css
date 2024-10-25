@@ -45,7 +45,7 @@
 body,
 input,
 button {
-  font-family: var(--body-font);
+  font-family:var(--body-font);
   font-size: var(--normal-font-size);
 }
 
@@ -300,7 +300,8 @@ padding-block: 2rem 1rem;
 .container{
   margin-inline: auto;
 }
-login__area{
+
+.login__area{
   width: 460px;
   margin:initial;
 
